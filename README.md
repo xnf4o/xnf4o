@@ -9,7 +9,6 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xnf4o&show_icons=true&theme=synthwave">
 </p>
-<hr>
 
 <!--
 **xnf4o/xnf4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
