@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm xnf4o (｡◕‿◕｡)</h1> 
 <p align="center">
-    <img style="text-align: center" src="hhttps://discord.c99.nl/widget/theme-4/545117606542311426.png">
+    <img style="text-align: center" src="https://discord.c99.nl/widget/theme-4/545117606542311426.png">
 </p>
 
 <h4 align="center">I am a developer, taking commissions and always working on something new.<br></h4>
